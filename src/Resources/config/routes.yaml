@@ -1,0 +1,3 @@
+anera_health-check_status:
+    path: /health-check/status
+    controller: Anera\HealthCheck\Controller\HealthCheckController::status

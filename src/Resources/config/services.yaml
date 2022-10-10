@@ -1,0 +1,3 @@
+services:
+    Anera\HealthCheck\Controller\HealthCheckController:
+        tags: ['controller.service_arguments']
